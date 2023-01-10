@@ -1,0 +1,11 @@
+準備
+
+1. Google driveの作成
+2. drive内に"AI_laboratory_course"フォルダを作成
+3. 下記アドレスの画像ファイルをダウンロードしてフォルダ内に入れておく
+        https://drive.google.com/file/d/1WXt5ucCtVOLxTNJkJFkJU7ySB83Z0S5v/view?usp=sharing
+
+教材
+こちらからダウンロードできます。Githubは便利なツールなので、自分でも使えるようにしておくことをお勧めします。
+ （Backupがしやすい、複数人で共同開発しやすい、など）
+ https://github.com/ykitaguchi77/Laboratory_course

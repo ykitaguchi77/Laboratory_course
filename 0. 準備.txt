@@ -1,8 +1,7 @@
 準備
 
 1. Google driveの作成
-2. drive内に"AI_laboratory_course"フォルダを作成
-3. 下記アドレスのZIPファイルをダウンロードして解凍し、中身のファイルを先ほど作成したdrive内の"AI_laboratory_course"フォルダに移動
+2. 下記アドレスのZIPファイルをダウンロードして解凍し、解凍されたフォルダ（AI_laboratory_course）をdrive内に移動
 https://drive.google.com/u/4/uc?id=1dg_E_0w4C8jRsGKKVowmsmuVixIG5uI5&export=download
 
 教材
